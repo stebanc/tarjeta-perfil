@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,MAAM,CAAC;EACL,GAAG,EAAE,MAAM;EACX,IAAI,EAAE,MAAM;CACb;;AAED,AAAA,MAAM,CAAC;EACL,GAAG,EAAE,KAAK;EACV,IAAI,EAAE,KAAK;CACZ;;AAED,AAAA,KAAK,CAAC;EACJ,KAAK,EAAE,GAAG;EACV,MAAM,EAAE,KAAK;CACd",
+    "sources": [
+        "../sass/estilos-smallscreen.scss"
+    ],
+    "names": [],
+    "file": "estilos-smallscreen.css"
+}

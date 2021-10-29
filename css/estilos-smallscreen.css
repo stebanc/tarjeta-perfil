@@ -1,0 +1,15 @@
+.topbg {
+  top: -320px;
+  left: -350px;
+}
+
+.botbg {
+  top: 500px;
+  left: 150px;
+}
+
+.card {
+  width: 85%;
+  height: 370px;
+}
+/*# sourceMappingURL=estilos-smallscreen.css.map */
